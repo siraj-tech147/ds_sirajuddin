@@ -1,9 +1,8 @@
-# Data Science Assignment -- Web3 Trading Team
+# web3_trading_behavior_analysis
 
-## Candidate: `<Your Name>`{=html}
+## Candidate: `Sirajuddin`{=html}
 
-This repository contains my submission for the Web3 Trading Team Data
-Science assignment.\
+This repository contains web3_trading_behavior_analysis.\
 The project analyzes the relationship between **trader behavior**
 (profitability, risk, volume, leverage) and **market sentiment** (Fear
 vs Greed Index).
@@ -12,7 +11,7 @@ vs Greed Index).
 
 ## 📂 Project Structure
 
-    ds_<yourname>/
+    ds_<sirajuddin>/
     ├── notebook_1.ipynb          # Main analysis notebook
     ├── csv_files/
     │   ├── historical_data.csv   # Historical trader data
